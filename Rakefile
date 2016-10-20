@@ -3,6 +3,7 @@
 
 
 # comment in a rake file.
+#another comment in a rake file.
 
 require File.expand_path('../config/application', __FILE__)
 
